@@ -1,4 +1,4 @@
-# GitHubUsers
+# GitHubUsersList
 Este é um projeto Android que demonstra a implementação de uma aplicação que pesquisa e  lista usuários do github.
 O app também mostra algumas informações do usuário e lista seus repositorios publicos.
 o projeto utiliza várias tecnologias e padrões modernos onde algumas são arquitetura MVVM (Model-View-ViewModel) em conjunto com o Jetpack Compose, Flow, Paging e injeção de dependência com Hilt/Dagger.
