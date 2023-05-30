@@ -3,9 +3,9 @@ Este é um projeto Android que demonstra a implementação de uma aplicação qu
 O app também mostra algumas informações do usuário e lista seus repositorios publicos.
 o projeto utiliza várias tecnologias e padrões modernos onde algumas são arquitetura MVVM (Model-View-ViewModel) em conjunto com o Jetpack Compose, Flow, Paging e injeção de dependência com Hilt/Dagger.
 
-<img src="https://github.com/gleisonTi/GitHubUsersList/assets/26177219/de0ea938-f96b-4ad9-86e5-0a837baf304e"  width="300">
-
 <img src="https://github.com/gleisonTi/GitHubUsersList/assets/26177219/fe8c8d6f-b4e5-4e27-974c-b6ea3215b160"  width="300">
+
+<img src="https://github.com/gleisonTi/GitHubUsersList/assets/26177219/de0ea938-f96b-4ad9-86e5-0a837baf304e"  width="300">
 
 <img src="https://github.com/gleisonTi/GitHubUsersList/assets/26177219/72401a38-1406-423f-9cf8-e154251b39e3" width="300">
 
