@@ -4,11 +4,11 @@ O app também mostra algumas informações do usuário e lista seus repositorios
 o projeto utiliza várias tecnologias e padrões modernos onde algumas são arquitetura MVVM (Model-View-ViewModel) em conjunto com o Jetpack Compose, Flow, Paging e injeção de dependência com Hilt/Dagger.
 
 # Imagens do App
-![Screenshot_1685484161](https://github.com/gleisonTi/GitHubUsersList/assets/26177219/de0ea938-f96b-4ad9-86e5-0a837baf304e alt="Descrição da imagem" width="300")
+![Screenshot_1685484161](https://github.com/gleisonTi/GitHubUsersList/assets/26177219/de0ea938-f96b-4ad9-86e5-0a837baf304e  width="300")
 
-![Screenshot_1685484142](https://github.com/gleisonTi/GitHubUsersList/assets/26177219/fe8c8d6f-b4e5-4e27-974c-b6ea3215b160 alt="Descrição da imagem" width="300")
+![Screenshot_1685484142](https://github.com/gleisonTi/GitHubUsersList/assets/26177219/fe8c8d6f-b4e5-4e27-974c-b6ea3215b160  width="300")
 
-![Screenshot_1685484171](https://github.com/gleisonTi/GitHubUsersList/assets/26177219/72401a38-1406-423f-9cf8-e154251b39e3 alt="Descrição da imagem" width="300")
+![Screenshot_1685484171](https://github.com/gleisonTi/GitHubUsersList/assets/26177219/72401a38-1406-423f-9cf8-e154251b39e3 m" width="300")
 
 
 # Clonando e Inicializando o App no Android Studio 
